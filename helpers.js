@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Aparna*:  ```" + msg + "```"
+    return "✅ *Tezza*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Aparna*:  ```" + msg + "```"
+    return "🛑 *Tezza*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Aparna*:  ```" + msg + "```"
+    return "⏺️ *Tezza*:  ```" + msg + "```"
 }
 
 
