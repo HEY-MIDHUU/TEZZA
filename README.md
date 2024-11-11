@@ -1,12 +1,6 @@
 <div align="center">
   <p align="center">
 
-   <img 
-src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
-</p>
-
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+APARNA+MWOL+V2+REPO;CREATED+BY+KALIPPAN+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -14,7 +8,7 @@ src="https://tenor.com/view/kiss-gif-25234454.gif" alt="GIF"/>
 
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/icon1.jpg>
+<img src=https://files.catbox.moe/axb5fo.jpeg>
 </p>
 
   <p align="center">
