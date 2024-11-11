@@ -1,5 +1,5 @@
-<div align="center">
-  <p align="center">
+## _TEZZA WHATSAPP BOT_
+#### _TEZZA IS A UPDATED VERSION OF [APARNAMWOL-V2](https://github.com/KALIPPAN-SER02/APARNAMWOL-V2)
 
 
  </a>
