@@ -12,16 +12,16 @@
 </p>
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--MIDHUN/KALIPPAN-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--MIDHUN?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-  <a href="https://instagram.com/_midhun_x3__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/dhe_kidx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/918281370025"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 </a>
 <p align="center">
-Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> to make it public
+Project created by <a href="https://github.com/HEY-MUDHUU">MIDHUN</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/KALIPPAN-SER02">KALIPPAN-SER</a> 
 
   ### SIMPLE METHOD
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KALIPPAN-SER02/APARNAMWOL-V2.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEY-MIDHUU/TEZZA.git)
 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KalippanSer/KALIPPANSER-OR?v=1)
@@ -54,8 +54,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
-$ cd APARNA-MWOL_V2
+$ git clone https://github.com/HEY-MIDHUU/TEZZA
+$ cd TEZZA
 $ npm i
 $ node julie.js
 ```
@@ -63,16 +63,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/followers">
+  <a href="https://github.com/HEY-MIDHUU/TEZZA/followers">
     
-<a href="https://github.com/KALIPPAN-SER02/">
+<a href="https://github.com/HEY-MIDHUU/">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Kalippan-Midhunx3/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2"><img title="Forks" src="https://img.shields.io/github/forks/KALIPPAN-SER02/APARNA-MWOL_V2?color=blue&style=flat-square"></a>
-<a href="https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KALIPPAN-SER02/APARNA-MWOL_V2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HEY-MIDHUU/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/MIDHUN?color=blue&style=flat-square"></a>
+<a href="https://github.com/HEY-MIDHUU/TEZZA/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars//HEY-MIDHUU/TEZZA?color=blue&style=flat-square"></a>
+<a href="https://github.com/HEY-MIDHUU/TEZZA"><img title="Forks" src="https://img.shields.io/github/forks/HEY-MIDHUU/TEZZA?color=blue&style=flat-square"></a>
+<a href="https://github.com/HEY-MIDHUU/TEZZA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HEY-MIDHUU/TEZZA?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <div align="center">
     
@@ -85,9 +85,9 @@ By using kick, add, promote, demote Commands, Your WhatsApp account may be banne
 ## DEVELOPERS
   <div align="center">
     
-  [![Midhunser](https://github.com/KALIPPAN-SER02.png?size=100)](https://github.com/Kalippan-Midhunx3) |  [![Midhunser](https://github.com/Kalippan-Midhunx3.png?size=100)](https://github.com/Kalippan-Midhunx3) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![MIDHUN OLD GIT](https://github.com/KALIPPAN-SER02.png?size=100)](https://github.com/KALIPPAN-SER02) |  [![MIDHUN](https://github.com/HEY-MIDHUU.png?size=100)](https://github.com/HEY-MIDHUU) | [![MIDHUN](https://github.com/Klippan-minnuz?size=100)](https://github.com/Klippan-minnuz) 
 ----|----|---
-[Midhunser](https://github.com/KALIPPAN-SER02)  | [Midhunser](https://github.com/Kalippan-minnuz) | [afnanplk](https://github.com/afnanplk)
+[MIDHUN](https://github.com/KALIPPAN-SER02)  | [MIDHUN](https://github.com/HEY-MIDHUU) | [MIDHUN](https://github.com/Klippan-minnuz)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
