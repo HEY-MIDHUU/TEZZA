@@ -114,7 +114,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'kalippanser' || config.AFPLK == 'kalippan' || config.AFPLK == 'vava' || config.AFPLK == 'Kalippanser') {
+        if (config.AFPLK == midhun' || config.AFPLK == 'kalippan' || config.AFPLK == 'vava' || config.AFPLK == 'Kalippanser') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
