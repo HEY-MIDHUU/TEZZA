@@ -1,14 +1,14 @@
 {
-    "name": "APARNA MWOL V2 ",
-    "description": "APARNA MWOL V2 is the Modified Version of WhatsAsena, Made By @KALIPPAN with Baileys.",
-    "logo": "https://www.linkpicture.com/q/icon1.jpg",
+    "name": "TEZZA",
+    "description": "APARNA MWOL V2 is the Modified Version of WhatsAsena, Made By @HEY-MIDHUU with Baileys.",
+    "logo": "https://files.catbox.moe/axb5fo.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/KALIPPAN-SER02/APARNAMWOL-V2",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/HEY-MIDHUU/TEZZA",
+    "website":   "https://github.com/HEY-MIDHUU/TEZZA,
+    "success_url": "https://github.com/HEY-MIDHUU/TEZZA",
     "stack": "container",
     "env": {
-        "APARNA_CODE": {
+        "TEZZA_CODE": {
             "description": "Type the code when you got by scanning QR through WhatsApp.",
             "required": true
         },
@@ -17,8 +17,9 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "PASSWORD IS small letter kalippan. Cheriya aksharathil kalippan ennu adikuga.",
+            "description": "PASSWORD is already here do not change.",
             "required": true
+            "value": "Midhun"
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
@@ -36,22 +37,22 @@
             "value": "true"
         },
         "LG_LOGO": {
-            "description": "LOGO list message image link(https://telegra.ph/)link.",
+            "description": "LOGO list message image link",
             "required": true,
-            "value": "https://i.imgur.com/snKWQib.jpg"
+            "value": "https://files.catbox.moe/axb5fo.jpeg"
         },
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "APARNAMWOL"
+            "value": "TEZZA"
         },
         "ALIVE_BUTTON": {
             "description": "Set the alive message two name",
             "required": true,
-            "value": "APARNAMWOL/KALIPPANSER"
+            "value": "𝘛𝘌𝘡𝘡𝘈 𝘏𝘌𝘙𝘌 𝘍𝘖𝘙 𝘠𝘖𝘜𝘏📍"
         },
         "INBO_BLOCK": {
-            "description": "Inbox Blocking System. True koduthal ningalude pml vann chila bad words upoayogikunnavare bot block aakum block aakendengil false kodukuka",
+            "description": "Inbox Blocking System.",
             "required": true,
             "value": "false"
         },
@@ -87,7 +88,8 @@
         },
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
-            "required": false          
+            "required": false
+             "value": "https://files.catbox.moe/ycu8xg.mp4"        
         },
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by SAIDALI",
@@ -122,7 +124,7 @@
         "AUDIO_CAPTION": {
             "description": " Set true if you don't want to see error log.",
             "required": false,
-            "value": "[KALIPPAN]\n INSTA: _MIDHUN_x3__\n THIS BOT OWNER KALIPPAN SER\n BOT CREATERZ KALIPPSAN-MIDHUN🎶\n🎶🎶🎶"
+            "value": "[KALIPPAN]\n INSTA: dhe_kidx\n THIS BOT OWNER MIDHUN\n BOT CREATERZ 𝘠𝘖𝘜𝘕𝘎 𝘚𝘛𝘌𝘙𝘚 \n 〽️"
         },
         "SEND_READ": {
             "description": "Write true if you want to throw seen.",
@@ -181,10 +183,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": true,
-            "value": "༺═══❃᭓Aᴘᴀʀɴᴀ Mᴡᴏʟ᭄↹🎀🪄❃═══༻"
+            "value": "𝘛𝘌𝘡𝘡𝘈📍"
         },
         "WORK_TYPE": {
-            "description": "Aparnamwol v2 Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "TEZZA Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -200,7 +202,7 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "KALIPPANSER"
+            "value": "MIDHUN"
         },
         "OWNER_NUMBER": {
             "description": "Enter the owner number, You must enter your number, Please don't enter the number with country code ( example : 91 for indian ) Also don't enter space & + on the number ( example : 91996132xxxx for indian ). ( This number will be shown on some commands )",
@@ -223,7 +225,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands  {pp}```"
+            "value": "𝘛𝘌𝘡𝘡𝘈 𝘉𝘌𝘉𝘡 𝘏𝘌𝘙𝘌 𝘍𝘖𝘙 𝘠𝘖𝘜𝘏 📍`"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -233,7 +235,7 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*Downloading your song🧚*"
+            "value": "*𝘛𝘌𝘡𝘡𝘈 Downloading your song🧚*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
