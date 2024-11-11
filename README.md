@@ -45,8 +45,8 @@ Project created by <a href="https://github.com/HEY-MUDHUU">MIDHUN</a> to make it
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/KALIPPAN-SER02/APARNA-MWOL_V2
-$ cd APARNA-MWOL_V2
+$ git clone https://github.com/HEY-MIDHUU/TEZZA
+$ cd TEZZA
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
